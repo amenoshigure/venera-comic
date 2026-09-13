@@ -1,0 +1,212 @@
+[
+  {
+    "name": "包子漫画",
+    "key": "baozi",
+    "fileName": "baozi.js",
+    "version": "1.1.7",
+    "description": "包子漫画（官方配置）"
+  },
+  {
+    "name": "CCC追漫台",
+    "key": "ccc",
+    "fileName": "ccc.js",
+    "version": "1.0.1",
+    "description": "CCC追漫台（台湾CCC API）"
+  },
+  {
+    "name": "Comick",
+    "key": "comick",
+    "fileName": "comick.js",
+    "version": "1.2.0",
+    "description": "Comick（官方配置）"
+  },
+  {
+    "name": "动漫屋",
+    "key": "dm5",
+    "fileName": "dm5.js",
+    "version": "1.0.0",
+    "description": "动漫屋（dm5系 packed newImgs）"
+  },
+  {
+    "name": "动漫啦",
+    "key": "dongmanla",
+    "fileName": "dongman_la_fixed_v101.js",
+    "version": "1.0.0",
+    "description": "动漫啦（搜索/分类/章节/图片）"
+  },
+  {
+    "name": "Goda",
+    "key": "goda",
+    "fileName": "goda.js",
+    "version": "1.0.0",
+    "description": "Goda漫画源"
+  },
+  {
+    "name": "瓜子漫画",
+    "key": "guazi",
+    "fileName": "guazi_manhua_v1.1.0.js",
+    "version": "1.1.0",
+    "description": "瓜子漫画"
+  },
+  {
+    "name": "IKMMH",
+    "key": "ikmmh",
+    "fileName": "ikmmh_v2.js",
+    "version": "2.0.0",
+    "description": "IKMMH漫画源"
+  },
+  {
+    "name": "Komiic",
+    "key": "komiic",
+    "fileName": "komiic_dual.js",
+    "version": "1.0.0",
+    "description": "Komiic（双线路）"
+  },
+  {
+    "name": "来漫画",
+    "key": "laimanhua",
+    "fileName": "laimanhua_split_hosts_v1.2.1_configurable.js",
+    "version": "1.2.1",
+    "description": "来漫画（可配置分线路）"
+  },
+  {
+    "name": "MangaDex",
+    "key": "mangadex",
+    "fileName": "manga_dex.js",
+    "version": "1.0.0",
+    "description": "MangaDex（官方配置）"
+  },
+  {
+    "name": "漫画柜",
+    "key": "manhuagui",
+    "fileName": "manhuagui.js",
+    "version": "1.2.2",
+    "description": "漫画柜（LZString图片解码）"
+  },
+  {
+    "name": "漫画人",
+    "key": "manhuaren",
+    "fileName": "manhuaren.js",
+    "version": "1.0.0",
+    "description": "漫画人（dm5系）"
+  },
+  {
+    "name": "漫画UO",
+    "key": "manhuauo",
+    "fileName": "manhuauo_fixed_v2.js",
+    "version": "2.0.0",
+    "description": "漫画UO（修复版）"
+  },
+  {
+    "name": "漫蛙吧",
+    "key": "manwaba",
+    "fileName": "manwaba_fixed_v113.js",
+    "version": "1.1.3",
+    "description": "漫蛙吧（修复版）"
+  },
+  {
+    "name": "漫王",
+    "key": "manwang",
+    "fileName": "manwang_fixed_v120.js",
+    "version": "1.2.0",
+    "description": "漫王（修复版）"
+  },
+  {
+    "name": "墨境",
+    "key": "mojoin",
+    "fileName": "mojoin_fixed_v107.js",
+    "version": "1.0.7",
+    "description": "墨境（修复版）"
+  },
+  {
+    "name": "MyComic",
+    "key": "mycomic",
+    "fileName": "mycomic.js",
+    "version": "1.0.0",
+    "description": "MyComic漫画源"
+  },
+  {
+    "name": "Rawkuma",
+    "key": "rawkuma",
+    "fileName": "rawkuma.js",
+    "version": "1.0.0",
+    "description": "Rawkuma（英文漫画源）"
+  },
+  {
+    "name": "如漫画",
+    "key": "rumanhua",
+    "fileName": "rumanhua_fixed_v16.js",
+    "version": "1.1.0",
+    "description": "如漫画（AES解密图片）"
+  },
+  {
+    "name": "腾讯动漫",
+    "key": "tencent_comic",
+    "fileName": "tencent_comic_official (2).js",
+    "version": "1.0.0",
+    "description": "腾讯动漫（官方配置）"
+  },
+  {
+    "name": "图库CC",
+    "key": "tuku_cc",
+    "fileName": "tuku_cc.js",
+    "version": "1.0.0",
+    "description": "图库CC漫画源"
+  },
+  {
+    "name": "W漫画",
+    "key": "wmanhua",
+    "fileName": "wmanhua.js",
+    "version": "1.0.0",
+    "description": "W漫画源"
+  },
+  {
+    "name": "优酷漫画",
+    "key": "youku",
+    "fileName": "youku.js",
+    "version": "1.0.0",
+    "description": "优酷漫画源"
+  },
+  {
+    "name": "再漫画",
+    "key": "zaimanhua",
+    "fileName": "zaimanhua.js",
+    "version": "1.0.2",
+    "description": "再漫画（官方配置）"
+  },
+  {
+    "name": "Zerobyw33",
+    "key": "zerobyw33",
+    "fileName": "zerobyw33.js",
+    "version": "1.0.0",
+    "description": "Zerobyw33漫画源"
+  },
+  {
+    "name": "百合会",
+    "key": "baihehui",
+    "fileName": "baihehui.js",
+    "version": "1.0.0",
+    "description": "百合会漫画源"
+  },
+  {
+    "name": "CopyManga",
+    "key": "copymanga",
+    "fileName": "copy_manga(5).js",
+    "version": "1.0.0",
+    "description": "拷贝漫画"
+  },
+  {
+    "name": "FFPPT",
+    "key": "ffppt",
+    "fileName": "ffppt.js",
+    "version": "1.0.0",
+    "description": "FFPPT漫画源"
+  },
+  {
+    "name": "GFMH",
+    "key": "gfmh",
+    "fileName": "gfmh (3).js",
+    "version": "1.0.0",
+    "description": "GFMH漫画源"
+  }
+]
